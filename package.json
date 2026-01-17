@@ -1,0 +1,20 @@
+{
+  "name": "jsbot",
+  "version": "1.0.0",
+  "description": "A discord bot built using JavaScript and NodeJS",
+  "homepage": "https://github.com/khraosgenetor/jsBOT#readme",
+  "bugs": {
+    "url": "https://github.com/khraosgenetor/jsBOT/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khraosgenetor/jsBOT.git"
+  },
+  "license": "ISC",
+  "author": "Khraos Genetor",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
