@@ -17,7 +17,7 @@ Personal Discord bot built using JavaScript and Node.js.
 
 ## Deployment; 17-01-2026 (Current):
 - [ ] Run locally
-- [ ] Deployed on Vercel
+- [ ] Deployed on ~~Vercel~~ Railway
 - [ ] Deployed on persistent host
 
 ## Notes
